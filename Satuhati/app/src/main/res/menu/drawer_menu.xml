@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/music"
+            android:icon="@drawable/ic_music"
+            android:title="@string/musics"/>
+        <item
+            android:id="@+id/weather"
+            android:icon="@drawable/ic_weather"
+            android:title="@string/weather"/>
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/ic_news"
+            android:title="@string/news"/>
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/account"
+            android:title="@string/profile"/>
+        <item
+            android:id="@+id/contactus"
+            android:icon="@drawable/contactus"
+            android:title="@string/contact_us"/>
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout"/>
+    </group>
+
+</menu>

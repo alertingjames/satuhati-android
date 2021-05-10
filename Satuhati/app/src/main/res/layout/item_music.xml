@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_rect_shadow"
+        android:id="@+id/view"
+        android:padding="20dp"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/title"
+                android:textSize="16sp"
+                android:singleLine="true"
+                android:textColor="@color/text"
+                android:textStyle="bold"
+                android:ellipsize="end"
+                android:text="Music Title"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/user"
+                android:visibility="visible"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:layout_marginTop="15dp"
+                android:paddingLeft="8dp"
+                android:gravity="center"
+                android:drawableLeft="@drawable/user"
+                android:textColor="@color/text"
+                android:drawablePadding="10dp"
+                android:text="Music User"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:id="@+id/datetime"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:drawableLeft="@drawable/time"
+                    android:textColor="@color/text"
+                    android:drawablePadding="10dp"
+                    android:text="7/25/2018"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:id="@+id/likes"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:drawableLeft="@drawable/ic_liked_small"
+                    android:textColor="@color/text"
+                    android:drawablePadding="10dp"
+                    android:layout_marginTop="6dp"
+                    android:text="Likes: 0"/>
+            </LinearLayout>
+        </LinearLayout>
+        <FrameLayout
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="20dp">
+            <ImageView
+                android:id="@+id/audio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitCenter"
+                android:tint="#2196F3"
+                android:src="@drawable/music"/>
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:layout_gravity="center"
+                android:visibility="gone"/>
+        </FrameLayout>
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/right_arrow_gray"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/likeButton"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/ic_like"
+        android:layout_gravity="right"/>
+
+</FrameLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

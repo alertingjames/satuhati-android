@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Satuhati</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="log_in">Log In</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="havent_account">Haven\'t account?</string>
+    <string name="have_account">Have account?</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="resend"><i><u>Resend</u></i></string>
+    <string name="otp_auth">OTP Authentication</string>
+    <string name="auth_msg">A message with a verification code has been sent to your email. Enter the code to continue.</string>
+    <string name="havent_received">Haven\'t you received?</string>
+    <string name="submit">Submit</string>
+    <string name="forgotpassword_msg">Please enter your email.\nWe will send password reset link to\nyour email.</string>
+    <string name="enter_name">Enter your name.</string>
+    <string name="enter_email">Enter your email.</string>
+    <string name="enter_password">Enter your password.</string>
+    <string name="invalid_email">Your email is invalid. Please enter a valid email.</string>
+    <string name="login_success">Successfully logged In.</string>
+    <string name="unknown_user">You haven\'t been registered. Please sign up.</string>
+    <string name="incorrect_password">Your password is incorrect.</string>
+    <string name="enter_code">Enter the verification code.</string>
+    <string name="incorrect_code">The code is incorrect.</string>
+    <string name="unexisting_user">This user doesn\'t exist.</string>
+    <string name="server_issue">Server issue</string>
+    <string name="another_code_sent">Another code sent to your email.</string>
+    <string name="signup_success">Successfully registered.</string>
+    <string name="code_sent_to_email">A message with a verification code has been sent to your email: </string>
+    <string name="enter_code_continue">Enter the code to continue.</string>
+    <string name="someone_using_email">Someone is using the same email. Please try another one.</string>
+    <string name="registered_user">This user has already been registered.</string>
+    <string name="password_reset_link_sent">We have sent a password reset link to your email. Please check...</string>
+    <string name="search">Search...</string>
+    <string name="no_result">No result found...</string>
+    <string name="add_record_music">Record Music</string>
+    <string name="mymusic">my music</string>
+    <string name="likes">Likes</string>
+    <string name="recording_started">Recording started</string>
+    <string name="music_recorded">Music recorded</string>
+    <string name="record_music">Please record music.</string>
+    <string name="playing_music">Playing audio</string>
+    <string name="stoped_playing">Stopped playing</string>
+    <string name="close">Close</string>
+    <string name="type_here">Type here...</string>
+    <string name="add_music_name">Add Music Name</string>
+    <string name="me">Me</string>
+    <string name="resuming_music">Resuming music</string>
+    <string name="musics">Musics</string>
+    <string name="weather">Weather</string>
+    <string name="news">News</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="my_location">My Location</string>
+    <string name="type_address">Type address...</string>
+    <string name="location_info">Location Info</string>
+    <string name="location_unabled">Your location is not enabled.</string>
+    <string name="logged_out">Logged Out</string>
+    <string name="profile_updated">Your profile has been updated.</string>
+    <string name="account_not_exist">Your account doesn\'t exist.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="resubmit">Resubmit</string>
+    <string name="log_out">Log Out</string>
+    <string name="name_">Name *</string>
+    <string name="email_">Email *</string>
+    <string name="add_music">Add Music</string>
+    <string name="from_record">From Recording</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="sure_delete">Are you sure you want to delete?</string>
+    <string name="warning">Warning</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="deleted">Deleted</string>
+    <string name="no_exist">It doesn\'t exist</string>
+    <string name="cancel">Cancel</string>
+    <string name="upload_success">Successfully uploaded.</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="contact">Contact</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="mail">Mail</string>
+    <string name="contactus_msg">If you have any questionaries, please contact us with the following options:</string>
+    <string name="okay">OK</string>
+    <string name="credit">Credit</string>
+    <string name="uploading">Uploading...</string>
+    <string name="select_audio">Select Audio</string>
+
+    <string name="about_msg" >
+        HAKCIPTA TERPELIHARA\n\n
+
+APPLIKASI INI DIBANGUNKAN UNTUK TUJUAN HIBURAN DAN PERKONGSIAN MAKLUMAT.\nIA MERUPAKAN HAK PERIBADI DAN HAK INTELEK YANG DIREKA SECARA DIGITAL.PERISIAN DAN ILUSTRASI ADALAH TERHAD DAN TIDAK BOLEH DISALIN.GUNAKAN DENGAN HEMAH DAN CERMAT.\nSILA HUBUNGI PENTADBIR SISTEM UNTUK BANTUAN.\n
+
+KREDIT DIBERIKAN DAN DIDEDIKASIKAN KEPADA YANG MENGETAHUI.
+
+    </string>
+
+    <string name="about_msg2">
+        UNTUK MAKLUMAT LANJUT.\n\nVersion 1.0 (3.3.82)
+    </string>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

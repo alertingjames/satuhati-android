@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Satuhati</string>
+    <string name="log_in">Daftar Masuk</string>
+    <string name="login">Masuk</string>
+    <string name="sign_up">Pendaftaran</string>
+    <string name="havent_account">Tiada akaun?</string>
+    <string name="have_account">Mempunyai Akaun?</string>
+    <string name="forgot_password"><u>Lupa katalaluan?</u></string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">kata laluan</string>
+    <string name="resend"><i><u>Dihantar semula</u></i></string>
+    <string name="otp_auth">pengesahan OTP</string>
+    <string name="auth_msg">Mesej dengan kod pengesahan telah dihantar ke email anda.Masukkan kod untuk meneruskan.</string>
+    <string name="havent_received">Adakah ada menerima email?</string>
+    <string name="submit">Teruskan</string>
+    <string name="forgotpassword_msg">Sila masukkan email anda.Kod pengesahan akan dihantar semula.</string>
+    <string name="enter_name">Sila masukkan nama.</string>
+    <string name="enter_email">Sila masukkan email.</string>
+    <string name="enter_password">Sila bina katalaluan.</string>
+    <string name="invalid_email">Email anda tidak sah.Sila gunakan email yang sah.</string>
+    <string name="login_success">Pendaftran anda telah berjaya.</string>
+    <string name="unknown_user">Anda belum mendaftar.Sila buat pendaftaran.</string>
+    <string name="incorrect_password">Katalaluan tidak sah.</string>
+    <string name="enter_code">Sila masukkan kod pengesahan.</string>
+    <string name="incorrect_code">Kod yang tidak sah.</string>
+    <string name="unexisting_user">Pengguna tidak wujud.</string>
+    <string name="server_issue">Masalah server</string>
+    <string name="another_code_sent">Kod pengesahan ganti telah dihantar ke email anda.</string>
+    <string name="signup_success">Pendaftaran berjaya.</string>
+    <string name="code_sent_to_email">Mesej dengan kod pengesahan telah dihantar ke email anda: </string>
+    <string name="enter_code_continue">Sila masukkan kod untuk meneruskan.</string>
+    <string name="someone_using_email">Email telah didaftar.sila gunakan email yang lain.</string>
+    <string name="registered_user">Nama pengguna telah didaftar.sila gunakan nama pengguna yang lain.</string>
+    <string name="password_reset_link_sent">Pautan lupa katalaluan telah diemailkan. Sila buat semakkan...</string>
+    <string name="search">Mencari...</string>
+    <string name="no_result">Tiada keputusan ditemui...</string>
+    <string name="add_record_music">Merakam muzik</string>
+    <string name="mymusic">Muzik saya</string>
+    <string name="likes">kegemaran</string>
+    <string name="recording_started">rakaman dimulakan</string>
+    <string name="music_recorded">Muzik dirakam</string>
+    <string name="record_music">Sila mulakan rakaman.</string>
+    <string name="playing_music">Memainkan audio</string>
+    <string name="stoped_playing">Henti memainkan</string>
+    <string name="close">tutup</string>
+    <string name="type_here">Taip disini...</string>
+    <string name="add_music_name">Masukkan judul audio</string>
+    <string name="me">Saya</string>
+    <string name="resuming_music">Menyambung audio</string>
+    <string name="musics">Muzik</string>
+    <string name="weather">Cuaca</string>
+    <string name="news">Berita</string>
+    <string name="profile">Profil</string>
+    <string name="logout">daftar keluar</string>
+    <string name="my_location">Lokasi saya</string>
+    <string name="type_address">Masukkan alamat...</string>
+    <string name="location_info">Info lokasi</string>
+    <string name="location_unabled">Lokasi anda tidak didayakan.</string>
+    <string name="logged_out">Daftar keluar</string>
+    <string name="profile_updated">Profil anda telah dikemaskini.</string>
+    <string name="account_not_exist">Akauan anda tidak wujud.</string>
+    <string name="reset_password">Menetap semula katalaluan</string>
+    <string name="resubmit">Hantar semula</string>
+    <string name="log_out">Daftar keluar</string>
+    <string name="name_">Nama *</string>
+    <string name="email_">Email *</string>
+    <string name="add_music">Tambah muzik</string>
+    <string name="from_record">Dari rakaman</string>
+    <string name="from_gallery">Dari galeri</string>
+    <string name="sure_delete">Adakah anda pasti untuk memadamkanya?</string>
+    <string name="warning">Amaran</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="deleted">Dipadam</string>
+    <string name="no_exist">Ianya tidak wujud</string>
+    <string name="cancel">Batal</string>
+    <string name="upload_success">Muatnaik berjaya.</string>
+    <string name="contact_us">Hubungi kami</string>
+    <string name="contact">bantuan</string>
+    <string name="phone_call">Melalaui telepon</string>
+    <string name="whatsapp">Melalui Whatsapp</string>
+    <string name="mail">Melalui e-Mail</string>
+    <string name="contactus_msg">Jika anda mempunyai komen atau idea untuk penambahbaikan sila hubungi melalui:</string>
+    <string name="okay">Okey</string>
+    <string name="credit">Kredit</string>
+    <string name="uploading">Memuat naik ...</string>
+    <string name="select_audio">Pilih Audio</string>
+
+    <string name="about_msg" >
+        HAKCIPTA TERPELIHARA\n\n
+
+APPLIKASI INI DIBANGUNKAN UNTUK TUJUAN HIBURAN DAN PERKONGSIAN MAKLUMAT.\nIA MERUPAKAN HAK PERIBADI DAN HAK INTELEK YANG DIREKA SECARA DIGITAL.PERISIAN DAN ILUSTRASI ADALAH TERHAD DAN TIDAK BOLEH DISALIN.GUNAKAN DENGAN HEMAH DAN CERMAT.\nSILA HUBUNGI PENTADBIR SISTEM UNTUK BANTUAN.\n
+
+KREDIT DIBERIKAN DAN DIDEDIKASIKAN KEPADA YANG MENGETAHUI.
+
+    </string>
+
+    <string name="about_msg2">
+        UNTUK MAKLUMAT LANJUT.\n\nVersion 1.0 (3.3.82)
+    </string>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
